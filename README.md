@@ -7,7 +7,7 @@
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By Bawihpuia To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
@@ -35,7 +35,8 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://"https://chat.whatsapp.com/LldVn2IFdiS7DZW10xwROB" target="_blank">
+ <a href="https://"https://chat.whatsapp.com/LldVn2IFdiS7DZW10xwROB"
+   target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
