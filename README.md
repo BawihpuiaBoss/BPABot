@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/GWS9azfxx3aGAUxZ6BErJY">
     <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
     </p>
-<h1 align="center">    KING-MULTI-DEVICE (BETA)
+<h1 align="center">    BPABOT-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
@@ -35,7 +35,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w" target="_blank">
+ <a href="https://"https://chat.whatsapp.com/LldVn2IFdiS7DZW10xwROB" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
