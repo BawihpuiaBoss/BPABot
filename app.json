@@ -1,8 +1,8 @@
 { 
   "name": "BPABOT",
-  "description": "A Whatsapp md bot built By Naveed to make experience better",
+  "description": "A Whatsapp md bot built By bawihpuia to make experience better",
   "logo": "https://telegra.ph/file/ea69e2b6363843d83a29c.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "BPABOT", "BPABOT", "BPABOT","BPABOT","BPABOT","multi device","baileys"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -83,7 +83,7 @@
        "value": "92Xxxxxxxx"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to BPABOT Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -95,8 +95,8 @@
     "value": "mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Don't Change . No Need To Change Only AvAvilabl ",
-     "value": "BPABOT"
+    "description": "Don't Change . No Need To Change Only Avilable King-Md .",
+     "value": "BPABot"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -109,7 +109,7 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": bawihpuia"
+    "value": "bawihpuia"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
