@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<a href="https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="https://chat.whatsapp.com/LldVn2IFdiS7DZW10xwROB"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
 # DEPLOY SETUP
@@ -109,15 +109,11 @@
 ---
 
 
-<h2 align="center"> Star This Repo If You like KING-MD🌟
+<h2 align="center"> Star This Repo If You like BPABOT💜
 </h2>
 
 #### Thanks To 
 
-1: Suhail Bro
-
-2: Zubair Bro
-
-3: SamPandy Bro
+1: Bawihpuia
 
 #### NOTE: DON'T MODIFY THIS BOT FIRST INFORM THE OWNER
