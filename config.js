@@ -6,21 +6,21 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://KING-MDBOT:BPABOT@cluster0.ltjjfkx.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'textnow1pak@gmail.com'
-global.github = 'https://github.com/naveeddogar/BPABOT'
-global.location = 'pakistan'
-global.gurl = 'https://instagram.com/naveeddogar_' // add your username
+global.email = 'ripflick377@gmail.com'
+global.github = 'https://github.com/BawihpuiaBoss'
+global.location = 'india'
+global.gurl = 'https://instagram.com/nightcore_mizo' // add your username
 global.sudo = process.env.SUDO || '9233092990'
 global.devs = '923096566451';
-global.website = 'https://github.com/naveeddogar/BPABOT' // Hello world
+global.website = 'https://github.com/BawihpuiaBoss // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://https://telegra.ph/file/ea69e2b6363843d83a29c.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'BPABOT' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'Bawihpuia' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Naveed-Dogar' : process.env.PACK_AUTHER.split(";")[0],
+  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Bawihpuia' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
-  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'King-Md' : process.env.PACK_NAME.split(";")[1],
+  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'BPABOT' : process.env.PACK_NAME.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION ||  'true' ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nigga' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
