@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/GWS9azfxx3aGAUxZ6BErJY">
-    <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/ea69e2b6363843d83a29c.jpg"> 
     </p>
 <h1 align="center">    BPABOT-MULTI-DEVICE (BETA)
 </h1>
